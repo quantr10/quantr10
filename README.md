@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NFYxNC44N2MwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzdjLTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOUgxMi43N3YxLjU2MWguMDQ5Yy40NzYtLjkgMS42MzctMS44NSAzLjM2OS0xLjg1IDMuNjAxIDAgNC4yNjggMi4zNyA0LjI2OCA1LjQ1NXY2LjI4NloiLz48cGF0aCBkPSJNNS4zMzcgNy40MzNhMi4wNjUgMi4wNjUgMCAxMTAtNC4xMyAyLjA2NSAyLjA2NSAwIDAxMCA0LjEzeiIvPjxwYXRoIGQ9Ik02Ljg2NSAyMC40NTJIMy44MTNWOUg2Ljg2NXYxMS40NTJaIi8+PC9zdmc+" />
 </a>
 
-
-  <a href="https://github.com/Quantr10">
+  <a href="https://github.com/quantr10">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
