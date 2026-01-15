@@ -82,11 +82,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantr10&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantr10&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" 
     height="200"
 />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Quantr10&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" 
+    src="https://github-readme-stats.vercel.app/api?username=quantr10&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" 
     height="200"
 />
 </p>
