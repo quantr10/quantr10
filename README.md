@@ -78,22 +78,5 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantr10&layout=compact&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" 
-    height="200"
-/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=quantr10&show_icons=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" 
-    height="200"
-/>
-</p>
-
-
-
----
-
 <h3 align="center">⭐ Thanks for visiting! ⭐</h3>
 <h4 align="center">If you like my work, feel free to ⭐ my repositories!</h4>
